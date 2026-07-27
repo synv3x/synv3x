@@ -92,11 +92,3 @@ Built GPIO LED circuits automated with Python scripts. Used Jupyter Notebook for
 ## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## 💰 Support My Work
-
-Support my cybersecurity research and open-source projects. Your contribution helps fund my home lab infrastructure, security research, and detailed documentation of findings. Whether it's building honeypots, testing vulnerabilities, or exploring offensive security techniques, every coffee keeps the lab running and helps me share knowledge with the security community.
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/synv3x)
