@@ -1,4 +1,4 @@
-# Hi, I'm Synvex 👋
+# Hi, I'm Synvex ✌🏻
 ## I'm a Computer Engineering student specializing in cybersecurity. I'm passionate about offensive security, network analysis, and low-level programming. I love breaking systems, understanding how they work, and documenting my findings. This GitHub is where I share my security research, labs, and projects as I build toward a career in red team operations.
 
 ---
