@@ -1,7 +1,4 @@
-# 💫 About Me
-
 # Hi, I'm Synvex 👋
-
 ## I'm a Computer Engineering student specializing in cybersecurity. I'm passionate about offensive security, network analysis, and low-level programming. I love breaking systems, understanding how they work, and documenting my findings. This GitHub is where I share my security research, labs, and projects as I build toward a career in red team operations.
 
 ---
@@ -81,26 +78,6 @@ Set up hardened Fedora Linux server with SELinux enforcement. Configured firewal
 ## Raspberry Pi Automation & Python Scripting
 
 Built GPIO LED circuits automated with Python scripts. Used Jupyter Notebook for testing and hosted local web server on Raspberry Pi.
-
----
-
-# 🎯 What I've Built
-
-### Security Tools & Automation
-
-Built SnekMap, a multi-threaded vulnerability scanner with CVE lookup and multi-format reporting (JSON, CSV, HTML). Developed Cowrie SSH honeypot on Raspberry Pi 4 to log and analyze attacker behavior. Created automated Python scripts for network reconnaissance and system administration.
-
-### Network & Systems Configuration
-
-Configured Cisco enterprise networks with VLSM subnetting, VLANs, DHCP, DNS, and inter-site routing. Set up hardened Fedora Linux servers with SELinux enforcement, firewall rules, and system services. Managed Active Directory at scale with users, groups, and permissions.
-
-### Hardware & Embedded Development
-
-Programmed ESP32 microcontroller with ESP-NOW wireless protocol for real-time data transmission. Built GPIO automation circuits controlled via Python on Raspberry Pi. Designed and tested breadboard circuits interfaced with Visual Studio via GPIO communication.
-
-### Lab Infrastructure & Testing
-
-Deployed isolated lab environments including GOAD Active Directory, Metasploitable, and Security Onion monitoring. Set up virtualization stacks with VirtualBox, VMware, and QEMU for penetration testing and malware analysis. Tested SnekMap against Metasploitable 2 with validated CVE results.
 
 ---
 
