@@ -5,7 +5,7 @@
 
 ## 🌐 Connect With Me
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/synv3x) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/_samar1._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samarjeet-singh-8907b53aa/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samar32005singh@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/synv3x) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samar32005singh@gmail.com)
 
 ### Note - Discord Links often doesn't work with clicks so my username is synv3x - Just send a request there🙌🏻
 
